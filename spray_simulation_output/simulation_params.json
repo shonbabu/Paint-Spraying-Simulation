@@ -1,0 +1,12 @@
+{
+  "spray_width": 0.4,
+  "spray_range": 2.0,
+  "spray_density": 300,
+  "paint_intensity": 0.15,
+  "nozzle_distance": 0.6,
+  "fan_angle": 20.0,
+  "duration": 15.0,
+  "dt": 0.1,
+  "frames": 150,
+  "device": "cpu"
+}
